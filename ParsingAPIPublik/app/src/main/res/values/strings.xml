@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParsingAPIPublik</string>
+
+    <string name="avatar">Avatar</string>
+    <string name="name">Dimas Nurfauzi</string>
+    <string name="email">dimas@email.com</string>
+</resources>
